@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Automated Video Transcription & Subtitle Generator</strong>
+  <strong># Automated Video Transcription & Subtitle Generator</strong>
 </p>
 
 ## Overview
