@@ -15,7 +15,6 @@ This project automates the process of extracting audio from a video file, transc
 
 Make sure you have Python installed (this script was tested with **Python 3.12.3**). Install the required Python libraries using `requirements.txt`.
 
-#### **Windows**:
 Open Command Prompt or PowerShell and run:
 ```bash
 pip install -r requirements.txt
