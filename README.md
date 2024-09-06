@@ -21,5 +21,3 @@ Make sure you have Python installed (this script was tested with **Python 3.12.3
 
 ```bash
 pip install -r requirements.txt
-
-### 1. Install Python Dependencies
