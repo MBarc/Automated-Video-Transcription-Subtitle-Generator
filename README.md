@@ -11,9 +11,9 @@ This project automates the process of extracting audio from a video file, transc
 
 ## Depdendencies
 
-### 1. FFMPEG
+### 1. Install FFMPEG
 
-The version of FFMPEG that was used to develop this script is included in this repository. However, the utilization of it is something most FFMPEG versions are capable of. Feel free to try with a newer version of FFMPEG but if you encounter any issues, please use the one I provided in this repository.
+You can download FFMPEG [here](https://www.ffmpeg.org/download.html). Once you have the FFMPEG executable, place it in the same directory as main.py.
 
 ### 1. Install Python Dependencies
 
