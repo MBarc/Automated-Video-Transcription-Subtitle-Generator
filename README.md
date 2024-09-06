@@ -9,12 +9,17 @@ This project automates the process of extracting audio from a video file, transc
 - Generates subtitles in the `.srt` format.
 - Adds subtitles back to the original video either as soft subtitles.
 
-## Installation
+## Depdendencies
+
+### 1. FFMPEG
+
+The version of FFMPEG that was used to develop this script is included in this repository. However, the utilization of it is something most FFMPEG versions are capable of. Feel free to try with a newer version of FFMPEG but if you encounter any issues, please use the one I provided in this repository.
 
 ### 1. Install Python Dependencies
 
 Make sure you have Python installed (this script was tested with **Python 3.12.3**). Install the required Python libraries using `requirements.txt`.
 
-Open Command Prompt or PowerShell and run:
 ```bash
 pip install -r requirements.txt
+
+### 1. Install Python Dependencies
