@@ -1,6 +1,4 @@
-<p align="center">
-  <strong># Automated Video Transcription & Subtitle Generator</strong>
-</p>
+<h1 align="center">Automated Video Transcription & Subtitle Generator</h1>
 
 ## Overview
 This project automates the process of extracting audio from a video file, transcribing the audio, and generating subtitle files in the SRT format. It allows you to add the subtitles back to the video either as soft (selectable) or hard-coded subtitles.
