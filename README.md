@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## How To Use
 
-Simply just put your .mp4 file in the same directory as main.py. Then, run main.py.
+Rename your .mp4 file to "video.mp4" then just put the video in the same directory as main.py. Next, run main.py.
 
 ```bash
 python main.py
