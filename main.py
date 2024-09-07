@@ -3,7 +3,7 @@ import ffmpeg
 
 from faster_whisper import WhisperModel
 
-input_video = "Session.mp4"
+input_video = "video.mp4"
 input_video_name = input_video.replace(".mp4", "")
 
 def extract_audio():
